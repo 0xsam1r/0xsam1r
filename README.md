@@ -1,7 +1,7 @@
 <div align="center">
   <h1> <pre>S A M I R   A H M E D </h1> 
   <h3> 
-    A computer scientist in the making! <p> 🎓 Cybersecurity Student | 💻 Aspiring Developer </p>
+    A Software Engineer in the making! <p> 🎓 Computer Science Student | 💻 Aspiring Backend Developer </p>
   </h3>
     
   <a href="https://github.com/0xsam1r">
@@ -19,7 +19,12 @@
 ## 👋🏼 Hi there
 
 <p>I'm <strong>Samir</strong> (<code>سمير</code>)</p>
-<p>- 🔐 Diving deep into cybersecurity to explore the art of penetration testing, securing systems and data. </p>
+
+Hi, I'm **Samir** (<code>سمير</code>)  
+
+- 💻 Backend Developer focused on building APIs using Node.js & Express  
+- 🛠️ Designing RESTful APIs and working with databases (MySQL)  
+<p>- 🔐 Diving deep into cybersecurity to explore the art of securing systems and data. </p>
 <p>- 🌱 believer in the power of open source and community-driven development.</p>
 <p>- 📚 Always curious and learning, because in tech, the journey never ends!</p>
 <p>- 🛠️ Continuously experimenting with different tools, languages, and technologies to build and improve projects.</p>
