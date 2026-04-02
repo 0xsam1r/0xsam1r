@@ -1,7 +1,7 @@
 <div align="center">
   <h1> <pre>S A M I R   A H M E D </h1> 
   <h3> 
-    A Software Engineer in the making! <p> 🎓 Computer Science Student | 💻 Aspiring Backend Developer </p>
+    Software Engineer in the making! <p> 🎓 CS Student | 💻 Aspiring Backend Developer </p>
   </h3>
     
   <a href="https://github.com/0xsam1r">
@@ -20,14 +20,20 @@
 
 <p>Hi, I'm <strong>Samir</strong> (<code>سمير</code>)</p>
 
-<p>- 💻 Backend Developer focused on building APIs using Node.js & Express.</p> 
+<p>- 🚀 Interested in Backend Development roles and building scalable APIs.</p>
 <p>- 🛠️ Designing RESTful APIs and working with databases (MySQL)</p>
 <p>- 🔐 Diving deep into cybersecurity to explore the art of securing systems and data. </p>
 <p>- 🌱 believer in the power of open source and community-driven development.</p>
-<p>- 📚 Always curious and learning, because in tech, the journey never ends!</p>
+
 <p>- 🛠️ Continuously experimenting with different tools, languages, and technologies to build and improve projects.</p>
 
 <br/><br/>
+
+## 🚀 Highlight Projects
+
+- Auth API (Node.js, Express, MySQL)
+- Airline Database System
+- Dictionary Performance Optimization from 6-->2 seconds
 
 ## 💻 Tech Stack
 
