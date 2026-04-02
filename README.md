@@ -22,8 +22,8 @@
 
 Hi, I'm **Samir** (<code>سمير</code>)  
 
-- 💻 Backend Developer focused on building APIs using Node.js & Express  
-- 🛠️ Designing RESTful APIs and working with databases (MySQL)  
+<p>- 💻 Backend Developer focused on building APIs using Node.js & Express.</p> 
+<p>- 🛠️ Designing RESTful APIs and working with databases (MySQL)</p>
 <p>- 🔐 Diving deep into cybersecurity to explore the art of securing systems and data. </p>
 <p>- 🌱 believer in the power of open source and community-driven development.</p>
 <p>- 📚 Always curious and learning, because in tech, the journey never ends!</p>
