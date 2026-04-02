@@ -18,9 +18,7 @@
 
 ## 👋🏼 Hi there
 
-<p>I'm <strong>Samir</strong> (<code>سمير</code>)</p>
-
-Hi, I'm **Samir** (<code>سمير</code>)  
+<p>Hi, I'm <strong>Samir</strong> (<code>سمير</code>)</p>
 
 <p>- 💻 Backend Developer focused on building APIs using Node.js & Express.</p> 
 <p>- 🛠️ Designing RESTful APIs and working with databases (MySQL)</p>
